@@ -15,6 +15,26 @@ O dataset **Global Superstore Sales** contém informações detalhadas sobre ven
 - **Category**: Categoria dos produtos vendidos.
 - **Country**: País onde a venda foi realizada.
 
+## Insights
+
+Com este dashboard, é possível:
+
+1. **Monitorar a saúde financeira** da Global Superstore através de KPIs de fácil visualização.
+2. **Identificar padrões de venda e lucratividade** ao longo de meses e regiões.
+3. **Avaliar a eficácia das políticas de desconto** e suas influências nas margens de lucro.
+4. **Explorar oportunidades de crescimento** em diferentes países e categorias de produtos.
+
+---
+
+# Ferramentas Utilizadas
+
+- **Power BI**
+- **DAX** (Data Analysis Expressions)
+- **Global Superstore Sales Dataset**
+
+---
+![Dashboard Preview](dashboard_financeiro.png)
+
 ## KPIs e Visualizações
 
 ### 1. Lucros por Mês
@@ -51,26 +71,6 @@ Essa visualização mostra a distribuição das vendas por categorias de produto
 
 - **Filtro por Ano**: O dashboard inclui um slicer para seleção do ano de análise, permitindo uma visão filtrada por períodos específicos.
 - **Filtro por País**: Também foi implementado um filtro por país, facilitando a análise de vendas e lucros em regiões específicas.
-
-## Benefícios e Insights
-
-Com este dashboard, é possível:
-
-1. **Monitorar a saúde financeira** da Global Superstore através de KPIs de fácil visualização.
-2. **Identificar padrões de venda e lucratividade** ao longo de meses e regiões.
-3. **Avaliar a eficácia das políticas de desconto** e suas influências nas margens de lucro.
-4. **Explorar oportunidades de crescimento** em diferentes países e categorias de produtos.
-
----
-
-# Ferramentas Utilizadas
-
-- **Power BI**
-- **DAX** (Data Analysis Expressions)
-- **Global Superstore Sales Dataset**
-
----
-![Dashboard Preview](dashboard_financeiro.png)
 
 # Conclusão
 
